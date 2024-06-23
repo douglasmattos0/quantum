@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=dZWz4Gs_BuI&t=78s
 
 Obs.:
 1- Instalação do Miniconda
-    Conforme passos apresentados no video, pode ser instalado em MacOS, Linux e Windows
+    Conforme passos apresentados no video, pode ser instalado em MacOS, Linux e Windows.
     Procedimento padrão, Next, Next, Finish
 
 2- Criar ambiente Virtual Python
