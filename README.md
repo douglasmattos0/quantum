@@ -49,5 +49,5 @@ Executing transaction: done
 4- Instalação dos pacotes do IBM Qiskit
 (env) D:\workspaces\ws-quantum\quantum> pip install qiskit
 (env) D:\workspaces\ws-quantum\quantum> pip install matplotlib
-(env) D:\workspaces\ws-quantum\quantum> pip install ibm_qiskit_runtime
+(env) D:\workspaces\ws-quantum\quantum> pip install qiskit_ibm_runtime
 (env) D:\workspaces\ws-quantum\quantum> pip install pylatexenc
